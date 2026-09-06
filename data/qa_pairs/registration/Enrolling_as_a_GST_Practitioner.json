@@ -1,0 +1,156 @@
+[
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::1",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "1",
+    "question": "Who is a GST Practitioner?",
+    "answer": "GST Practitioner is a tax professional who can prepare returns and perform other activities on the basis of the information furnished to him/her by a taxable person. (However, the legal responsibility for such filings remains with the Taxpayer.) For this purpose, GST Practitioners (GSTP) are required to be enrolled with Centre or State Authority. CA/ CS/ CMA, Graduate, or post graduate degree in Law/Higher Auditing/Business Management/Commerce/Banking/Business Management, Retired Government Officials, Degree examination of any Foreign University recognized by any Indian University etc are eligible to apply for GSTP. In addition, GSTPs can be appointed as Authorized Representatives to act on the behalf of the taxpayers and represent them before the tax authorities.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::2",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "2",
+    "question": "Can I file Returns for my client if I am not registered?",
+    "answer": "It is recommended that you register as a GST Practitioner at the GST Portal to file Returns for your client.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::3",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "3",
+    "question": "Are there any preconditions before I can enroll on the GST Portal as a GST Practitioner?",
+    "answer": "A GST Practitioner must fulfill following conditions he/she can enroll on the GST Portal: 1. Applicant must have a valid PAN Card 2. Applicant must have a valid mobile number 3. Applicant must have a valid e-mail ID 4. Applicant must have a Professional address 5. Applicant must have the prescribed documents and information on all mandatory fields as required for Enrolment 6. Applicant must fulfill the eligibility criteria of GST Practitioner.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::4",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "4",
+    "question": "What are the eligibility criteria an applicant must fulfill for becoming a GST Practitioner/enrolling on the GST Portal as a GST Practitioner?",
+    "answer": "To be enrolled as a GSTP, the applicant should be in one of the following categories/ passed one of the following exams: • Chartered Accountant • Company Secretary • Cost and Management Accountant • Graduate or Postgraduate degree in Commerce • Graduate or Postgraduate degree in Banking • Graduate or Postgraduate degree in Business Administration • Graduate or Postgraduate degree in Business Management • Graduate or Postgraduate degree in Law • Graduate or Postgraduate degree in Higher Auditing • Degree examination of any Foreign University recognized by any Indian University • Retired Government Officials • Sales Tax Practitioner under existing law for a period of not less than five years • Tax Return Preparer under existing law for a period of not less than five years • Any other examination notified by Government.",
+    "page_start": 1,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::5",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "5",
+    "question": "I started to fill the Registration Application for GST Practitioner but was not able to complete it. Can I save my Registration Application?",
+    "answer": "Yes, you can save your Registration Application up to 15 days from the day your TRN was generated upon successful submission of PART- A of the Registration Application.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::6",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "6",
+    "question": "What do I do after submitting my Registration Application?",
+    "answer": "The Registration Application submitted by you will be processed by Tax Officer. Once your Registration Application is approved by the concerned Tax Official, your GSTP ID will be generated by the system along with a temporary password for first-time login and the same will be communicated to your registered e-mail address. ARN status will also be changed to ‘Approved’. Enrolment Certificate will be available at the Dashboard of the GSTP for view, print and download. In case of rejection, Rejection Order will get generated and communicated to you. ARN status will be changed to ‘Rejected’. Intimation of Rejection will be sent to the applicant who filed the application for the enrolment of GSTP via email and SMS on his registered email address and mobile number respectively. Rejection Order will be available at the Dashboard of the GSTP for view, print and download",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::7",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "7",
+    "question": "Do I need to register separately in each State and Union Territory?",
+    "answer": "Single Enrolment shall be sufficient for practicing on all India basis. No separate registrations are required for other States or Centre. However, you are free to apply for another registration in other state if you have a Professional Address in that state.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::8",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "8",
+    "question": "From where I can view my administrative authority?",
+    "answer": "You can view your administrative authority under \"Track Application Status\" after logging to the GST Portal.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::9",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "9",
+    "question": "How can I view my existing registrations mapped to same PAN of the business/ entity on the GST Portal while applying for registration?",
+    "answer": "After filling all the details in Part A of the application, when you click on Proceed button, GST Portal displays all the GSTINs / Provisional ID’s / UINs / GSTP IDs mapped to the same PAN across India.",
+    "page_start": 2,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::10",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "10",
+    "question": "Can I use same e-mail address, mobile number and PAN combination for taking multiple registrations on GST Portal?",
+    "answer": "Yes, you can use same e-mail address, mobile number and PAN combination for taking multiple registrations on GST Portal. Q. No. 11 to 12 are FAQs related to Creation of new UT of Ladakh and consequent changes on GST Portal for taxpayers",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::11",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "11",
+    "question": "My client has received an intimation that a new GSTIN has been assigned to him/her for UT of Ladakh. Can I still engage with my client using old GSTIN?",
+    "answer": "Yes, you can engage with your client using old GSTIN, for all matters related to old GSTIN.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::12",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "12",
+    "question": "My client has received an intimation that a new GSTIN has been assigned to him/her for UT of Ladakh. Can I engage with my client using new GSTIN without going through the process of accepting the request to engage?",
+    "answer": "Yes, you can engage with your client using new GSTIN. GST Portal will automatically migrate you as a GST Practitioner of your client for new GSTIN. Q. No. 13 to 14 are FAQs related to Merger of UT of Daman & Diu with UT of Dadra and Nagar Haveli and consequent changes on GST Portal for taxpayers",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::13",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "13",
+    "question": "My client has received an intimation that a new GSTIN has been assigned to him/her for UT of Dadra and Nagar Haveli and Daman and Diu. Can I still engage with my client using old GSTIN?",
+    "answer": "Yes, you can engage with your client using old GSTIN, for all matters related to old GSTIN.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Enrolling_as_a_GST_Practitioner::14",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Enrolling_as_a_GST_Practitioner.pdf",
+    "section": "Enrolling as a GST Practitioner",
+    "question_number": "14",
+    "question": "My client has received an intimation that a new GSTIN has been assigned to him/her for UT of Dadra and Nagar Haveli and Daman and Diu. Can I engage with my client using new GSTIN without going through the process of accepting the request to engage?",
+    "answer": "Yes, you can engage with your client using new GSTIN. GST Portal will automatically migrate you as a GST Practitioner of your client for new GSTIN.",
+    "page_start": 3,
+    "page_end": 4,
+    "needs_review": false
+  }
+]

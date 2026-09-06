@@ -1,0 +1,178 @@
+[
+  {
+    "id": "Refund on Account of Excess Payment of Tax::1",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "1",
+    "question": "When refund application on account of excess payment of tax can be filed?",
+    "answer": "Refund application on account of excess payment of tax can be filed, when the taxpayer has paid excess tax (in the form of advance tax or tax deducted/collected at source or self-assessment tax or payment of tax on regular assessment) against the tax required to be paid by him.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::2",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "2",
+    "question": "Who all can file refund application using ground as “Excess payment of Tax”?",
+    "answer": "Normal and casual taxpayers filing Form GSTR-3B, composite taxpayers filing Form GSTR-4 and Non-Resident taxpayers filing Form GSTR-5 can file refund application using ground as “Excess payment of Tax.”",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::3",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "3",
+    "question": "What is the minimum amount that can be claimed while filing refund application using ground as “Excess payment of Tax”?",
+    "answer": "Refund can be claimed for the amount of Rs.1000 or more while filing refund application using ground as “Excess payment of Tax”.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::4",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "4",
+    "question": "What are the relied upon documents which I have to upload with refund application on account of excess payment of tax?",
+    "answer": "You have to upload documents as are required to be filed along with Form RFD-01, as notified under CGST Rules or Circulars issued in the matter and other such documents the refund sanctioning authority may require. Taxpayers have an option to upload 10 documents with the refund application, of size up to 5 MB each. Therefore, any supporting document can be uploaded by the taxpayer, if required. In case, the refund amount claimed is more than 2 lacs, then the taxpayer needs to mandatorily upload Certificate from CA/ICWA in Annexure 2 to the refund application. In case, refund claimed amount is less than 2 lacs, then the certificate is not required, taxpayer needs to provide self-declaration only.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::5",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "5",
+    "question": "To whom should I file my application with?",
+    "answer": "The taxpayer shall file the refund application in Form RFD-01 on GST portal. Taxpayer shall choose ground of refund as “Excess payment of tax” for claiming refund. After filing, refund application shall be assigned to Refund Processing Officer and refund applicant can track the status of refund application.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::6",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "6",
+    "question": "Can I save the application for refund?",
+    "answer": "Application for refund can be saved at any stage of completion for a maximum time period of 15 days from the date of creation of refund application. If the same is not filed within 15 days, the saved draft will be purged from the GST database. Note: To view your saved application, navigate to Services > Refunds > My Saved/Filed Applications option.",
+    "page_start": 1,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::7",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "7",
+    "question": "Do I need to upload any statement of invoices for claiming refund?",
+    "answer": "No statement template is available for uploading the invoice details for claiming refund. You need to mention the refund to be claimed details in the Statement 7 available on the refund application screen while filing refund application. Tax Period, Type of Return, ARN of Return and Date of Filing Return is auto-populated in Statement 7.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::8",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "8",
+    "question": "What is the minimum refund amount that can be claimed while filing refund application using ground as “Excess payment of Tax”?",
+    "answer": "The refund amount claimed cannot be more than the amount of tax paid from the respective return against which refund is filed. Refund can be claimed for the amount of Rs.1000 or more.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::9",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "9",
+    "question": "Can I preview the refund application before filing?",
+    "answer": "Yes, you can preview the refund application in PDF format to check for any inconsistency or discrepancy before filing on the GST Portal.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::10",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "10",
+    "question": "How can I track the status of application for refund?",
+    "answer": "To track your filed application, navigate to Services > Refunds > Track Application Status option.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::11",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "11",
+    "question": "What is ARN?",
+    "answer": "Once the refund application is filed, Application Reference Number (ARN) receipt would be generated and ARN would be sent to your registered e-mail address and mobile number.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::12",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "12",
+    "question": "Where can I download my filed refund application?",
+    "answer": "Navigate to Services > User Services > My Applications link to download your filed refund application.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::13",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "13",
+    "question": "What happens when refund application is filed?",
+    "answer": "• GST Portal generates an ARN and displays it in a confirmation message, indicating that the refund application has been successfully filed. • GST Portal sends the ARN to registered e-mail ID and mobile number of the registered taxpayer.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::14",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "14",
+    "question": "Whether there is any ledger entry on filing refund application?",
+    "answer": "Once the refund application is processed by the refund processing officer i.e., RFD-06 Sanctioned Order in relation to DRC-03 document type issued then one debit entry will be posted in the DRC-03 register. The debit entry will be posted in DRC-03 register basis the amount of refund sanctioned by the refund processing officer.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::15",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "15",
+    "question": "When / how will the refund Form RFD-01 be processed?",
+    "answer": "Once the ARN is generated on filing of refund application in Form RFD-01, the refund application along with the documents attached while filing the form would be assigned to Jurisdictional Refund Processing Officers for processing the refund. Tax payer can track the status of refund application using track status functionality. The application will be processed and refund will be disbursed by the Jurisdictional Authority after scrutiny.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Refund on Account of Excess Payment of Tax::16",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Refund on Account of Excess Payment of Tax.pdf",
+    "section": "Refund on Account of Excess Payment of",
+    "question_number": "16",
+    "question": "In which bank account will the refund amount be credited? Is it one of the accounts that I registered in GST Portal?",
+    "answer": "Yes, the refund amount will be credited to one of the bank accounts that you have added while filing your registration application on the GST Portal. At the time of filling out form RFD-01, you will be required to select a bank account from the list of your linked / registered accounts in the GST Portal for crediting refund to that account, from the dropdown available in refund application. In case you want refund in another preferred bank account which is not appearing in the drop down list, you will have to add that bank account by filing amendment of registered (non-core) form. The bank account added by amendment form will get added to the drop-down list.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  }
+]

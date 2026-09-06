@@ -1,0 +1,90 @@
+[
+  {
+    "id": "Payment Failure::1",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "1",
+    "question": "My account was debited more than once for the same online transaction. How can I get the debit reversed?",
+    "answer": "Please contact your bank because it may be a transaction error. In case CIN is not generated but funds are debited or CIN is generated but not reported, taxpayers may use the Application (GST PMT 07) for Credit of Missing Payment under the Grievance Section of the GST Portal.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Payment Failure::2",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "2",
+    "question": "Using e-payment modes, if my transaction failed from one bank, can I re-initiate the payment for the same Challan using another bank account?",
+    "answer": "No, you cannot re-initiate a failed transaction. In case of a failed payment (for a challan), you need to create another challan, to deposit amount in the Electronic Cash Ledger.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Payment Failure::3",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "3",
+    "question": "I made a cash payment/deposited a Cheque/DD after the Challan expiry date and it was accepted by the bank. The payment status is still not updated on the GST Portal. What should I do? If the Challan was accepted by bank, the status should be updated.",
+    "answer": "Since the payment was made after the expiry date, it cannot be updated. If the bank has accepted the payment, it would be rejected by GST portal. In such a scenario, approach the bank branch where you made the payment and seek a refund for the same. Offline Payment Tip: Always verify that the Challan has not expired before leaving for making the payment at the bank.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Payment Failure::4",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "4",
+    "question": "I have made payment of Rs.1,00,000/- through Net banking and the amount has got deducted from the bank account. However, an error popped-up indicating that the server is down. How can I check the status of that payment and ensure whether it has been credited into my ledger or not?",
+    "answer": "You can check the payment status by navigating to Services > Payments > Challan History. If the status shows as INITIATED then the payment is still in process. If the status shows FAILED, then you need to create another challan and make the payment. Depending on the status of the challan, the debited amount may either get updated in the Electronic Cash Ledger or it may get credited to your bank account, which may take up to 24 Hrs.",
+    "page_start": 1,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Payment Failure::5",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "5",
+    "question": "For making GST payment through Over The Counter mode, in whose favour should the Taxpayer issue the cheque?",
+    "answer": "For making GST payment through Over The Counter mode, the cheque needs to be issued in favour of “GST Payments”.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Payment Failure::6",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "6",
+    "question": "If a wrongly-filled challan has been submitted, how can a Taxpayer make amendments to that payment?",
+    "answer": "If the CPIN is not generated, then the amendments in challan could be done within 7 days from the date of saving the challan for the first time. However, if the CPIN has got generated, then the taxpayer will need to create a new challan. The earlier challan will automatically expire after 15 days of generation of CPIN.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Payment Failure::7",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "7",
+    "question": "What is the next step after filling-up a challan?",
+    "answer": "After filling-up a challan, the Taxpayer has to select a payment mode and then make the payment.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Payment Failure::8",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/payments/Payment Failure.pdf",
+    "section": "Payment Failure",
+    "question_number": "8",
+    "question": "Amount was deducted two times for same CPIN, but the Electronic Cash Ledger was credited with single entry only. What should I do in such cases?",
+    "answer": "GST Portal will update cash ledger on the basis of first information of CIN received from the Bank/ RBI. For same CPIN, cash ledger can’t be updated more than once. Please get back the other deducted amount ( which was not credited to cash ledger), from the concerned bank.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  }
+]

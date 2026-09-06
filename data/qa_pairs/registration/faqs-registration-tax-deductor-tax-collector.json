@@ -1,0 +1,35 @@
+[
+  {
+    "id": "faqs-registration-tax-deductor-tax-collector::2.1",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/faqs-registration-tax-deductor-tax-collector.pdf",
+    "section": "faqs-registration-tax-deductor-tax-collector",
+    "question_number": "2.1",
+    "question": "Who needs to register under GST as a TDS ?",
+    "answer": "TDS stands for Tax Deducted at Source (TDS). All Governments, Government undertakings, Local Authorities and other notified entities making contractual payments in excess of INR 2.5 Lakhs to suppliers need to register as a TDS under GST. In the GST regime, while making such a payment in excess of INR 2.5 Lakhs, the concerned Governments, Government undertakings, Local Authorities and other notified entities needs to deduct 1% under CGST Act and 1% under SGST Act; In case of inter-state transactions, 2% (under IGST Act) of the total payable amount and remit it into the appropriate GST account. Credit of such GST payments will be given to the suppliers.",
+    "page_start": 5,
+    "page_end": 5,
+    "needs_review": false
+  },
+  {
+    "id": "faqs-registration-tax-deductor-tax-collector::2.2",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/faqs-registration-tax-deductor-tax-collector.pdf",
+    "section": "faqs-registration-tax-deductor-tax-collector",
+    "question_number": "2.2",
+    "question": "Who needs to register under GST as a TCS?",
+    "answer": "TCS stands for Tax Collected at source. In the GST regime, every e-commerce operator needs to collect 1% under CGST Act and 1% under SGST Act; In case of inter-state transactions, 2% (under IGST Act) on the net values of taxable supplies made through the e-commerce operator.",
+    "page_start": 5,
+    "page_end": 5,
+    "needs_review": false
+  },
+  {
+    "id": "faqs-registration-tax-deductor-tax-collector::2.3",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/faqs-registration-tax-deductor-tax-collector.pdf",
+    "section": "faqs-registration-tax-deductor-tax-collector",
+    "question_number": "2.3",
+    "question": "How can register as TDS or TCS?",
+    "answer": "The Registration Application for Tax Deductor/Tax Collector can be filed by the applicant directly by themselves. In GST regime, the registration process is online and any person/entity wishing to register will have to access the GST system for the same. Any person who wish to get registered as the Tax Deductor/Tax Collector needs to apply in the form prescribed. 2.4 Are there any preconditions I must fulfill before registering with GST as a TDS or TCS? The preconditions are: 1. For Registration as Tax Deductor: Applicant has valid PAN or TAN. 2. For Registration as Tax Collector: Applicant has valid PAN. 3. Applicant must have a valid mobile number. 4. Applicant must have valid E-mail ID. 5. Applicant must have the prescribed documents and information on all mandatory fields as required for registration. 6. Applicant must have a place of business. 7. Applicant must have an authorized signatory with valid details. 2.5 Do I get registered automatically after submitting the registration application along with the prescribed documents? No, your registration application will be processed and approved by the relevant Tax Officer, only then will you be issued the registration certificate and GSTIN. Ver.Rev.0.01 “GSTN Internal & Confidential” Page 5 of 13 2.6 I am an e-commerce operator; registered as a TCS under GST regime. I supply goods to multiple states. Do I need to register in each state? Yes, you need to register separately in each state and appoint a person in each state/UT who will be liable to pay GST. Ver.Rev.0.01 “GSTN Internal & Confidential” Page 6 of 13 3. Collaborations and dependencies 3.1 Collaborations Sr. Collaboration required with 1. Domain Team 2. Services Team 3.2 Dependencies Sr. Modules Reference/ Functionalities 1 SRS 2 SIT environment readiness for verification of content with application 3 UAT completion Ver.Rev.0.01 “GSTN Internal & Confidential” Page 7 of 13 4. Assumptions and constraints 4.1 Assumptions Sr. Assumption 1 Post UAT completion , the training content will be verified with the UAT environment 4.2 Constraints Sr. Constraint 1 Content cannot be finalized before the UAT completion Ver.Rev.0.01 “GSTN Internal & Confidential” Page 8 of 13 5. Glossary SI. Term / Description No Acronym API Application Program Interface 1 ARN Reference Number 2 B2B Business to Business 3 B2C Business to Consumer 4 BO Back Office 5 BRN Branch Receipt Number 6 CBDT Central Board of Direct Taxes 7 CBEC Central Board of Excise & Customs 8 CC Credit Card 9 CIN Challan Identification Number 10 CPIN Common Portal Identification Number 11 12 DC Debit Card 13 DSC Digital Signature Certificate 14 e-FPB Electronic Focal Point Branch 15 EOD End of the Day 16 FC Facilitation Centre 17 FO Front Office 18 GDI Government department unique ID where department does not have 19 GSTIN Commented [DD1]: ??? GSP GST Suvidha Providers 20 GSTIN Goods and Services Taxpayer Identification Number 21 GSTN GST Network 22 HSN Harmonized System of Nomenclature for goods 23 M Tax Period 24 M+1 Month succeeding the tax period 25 MCA Ministry of Corporate Affairs 26 OTP One Time Password 27 PAN Permanent Account Number 28 POS Place of Supply of Goods or Services – State code to be mentioned 29 SAC Service Accounting Code 30 Ver.Rev.0.01 “GSTN Internal & Confidential” Page 9 of 13 SI. Term / Description No Acronym UIN Unique Identity Number for UN Bodies / Embassies / Other Notified 31 Persons UIDAI Unique Identification Authority of India 32 Ver.Rev.0.01 “GSTN Internal & Confidential” Page 10 of 13 6. Appendices 6.1 Open items The following table lists all the open items in this document: ID Item Responsibility Status 1 2 3 4 5 6 7 8 Table 1. Open Items Ver.Rev.0.01 “GSTN Internal & Confidential” Page 11 of 13 6.2 Comments Matrix Since there is no formal tool finalized currently for logging comments on various document deliverables, Comments Matrix is being put here to ensure comments are being tracked and resolved. Once a formal tool is identified, this process might change for future deliverables. S. No. GSTN Review Date Raised Infosys Remarks Comments 1 2 Table 2. Comments Matrix Ver.Rev.0.01 “GSTN Internal & Confidential” Page 12 of 13 THIS PAGE IS INTENTIONALLY LEFT BLANK Ver.Rev.0.01 “GSTN Internal & Confidential” Page 13 of 13",
+    "page_start": 5,
+    "page_end": 13,
+    "needs_review": false
+  }
+]

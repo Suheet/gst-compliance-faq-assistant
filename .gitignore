@@ -1,0 +1,13 @@
+venv/
+.venv/
+.env
+qdrant_storage/
+__pycache__/
+*.pyc
+.DS_Store
+Suheet_Sonawane_Resume.pdf
+data/itc/
+data/payments/
+data/refund/
+data/registration/
+data/returns/

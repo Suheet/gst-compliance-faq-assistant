@@ -1,0 +1,7 @@
+gradio
+spaces
+qdrant-client
+sentence-transformers
+torch
+langchain-groq
+python-dotenv

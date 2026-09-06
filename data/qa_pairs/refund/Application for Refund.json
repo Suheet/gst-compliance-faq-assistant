@@ -1,0 +1,233 @@
+[
+  {
+    "id": "Application for Refund::1",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "1",
+    "question": "How can I claim refund of excess amount available in Electronic Cash ledger?",
+    "answer": "1. Login to GST portal for filing refund application under refunds section. 2. Navigate to Services > Refunds > Application for Refund option. 3. Select the reason of Refund as ‘Refund on account of excess balance in cash ledger’. File refund application in GST RFD-01. 4. The amount available in Electronic Cash Ledger would be auto-populated in the refund application in a matrix. 5. Mention the amount of refund to be claimed in GST RFD-01 in refund claimed table and file the form. Note: Taxpayer should have filed the applicable return(GSTR-1/ GSTR3B/ CPM-08/ GSTR-4 (Annual)) which were due to be furnished on or before the date on which the refund application is filed and taxpayer must have filed the latest GSTR-3B for the period for which refund has been filed or for the invoices for which refund has been claimed.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::2",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "2",
+    "question": "What is the amount limit for claim of refund in case of “Refund of excess amount from the cash ledger”?",
+    "answer": "There is no minimum limit restriction for refund of excess amount in Electronic Cash Ledger.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::3",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "3",
+    "question": "What are the relied upon documents which I have to upload with refund application on account of excess payment of tax?",
+    "answer": "You have to upload documents as are required to be filed along with Form RFD-01, as notified under CGST Rules or Circulars issued in the matter and other such documents the refund sanctioning authority may require. Taxpayers have an option to upload 10 documents with the refund application, of size up to 5 MB each. Any supporting document can be uploaded by the taxpayer, if required.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::4",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "4",
+    "question": "To whom should I file my application with?",
+    "answer": "The taxpayer shall file the refund application in Form GST RFD-01 on GST portal. Taxpayer shall choose ground of refund as “Refund of excess balance in Electronic Cash Ledger” for claiming refund. After filing, refund application shall be assigned to Refund Processing Officer and refund applicant can track the status of refund application.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::5",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "5",
+    "question": "Can I save the application for refund?",
+    "answer": "Application for refund can be saved at any stage of completion for a maximum time period of 15 days from the date of creation of refund application. If the same is not filed within 15 days, the saved draft will be purged from the GST database. Note: To view your saved application, navigate to Services > Refunds > My Saved/Filed Applications option.",
+    "page_start": 1,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::6",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "6",
+    "question": "Do I need to upload any statement for claiming refund?",
+    "answer": "No statement template is required to be uploaded for claiming refund. You need to mention the refund to be claimed details in the refund application screen while filing refund application.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::7",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "7",
+    "question": "How will I know the balance available in my Electronic Cash Ledger?",
+    "answer": "Balance amount available in your Electronic Cash Ledger is auto-populated in Form GST RFD-01. You can enter the amount of Refund to be claimed for Integrated Tax, Central Tax, State/ UT Tax and Cess in table “Refund Claimed”. However, the amount of refund to be claimed cannot be more than the balance amount available in Electronic Cash Ledger.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::8",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "8",
+    "question": "Can I preview the refund application before filing?",
+    "answer": "Yes, you can preview the refund application in PDF format to check for any inconsistency or discrepancy before filing on the GST Portal.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::9",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "9",
+    "question": "How can I track the status of application for refund?",
+    "answer": "To track your filed application, navigate to Services > Refunds > Track Application Status option.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::10",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "10",
+    "question": "What is ARN?",
+    "answer": "Once the refund application is filed, Application Reference Number (ARN) receipt would be generated and ARN would be sent to your registered e-mail address and mobile number.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::11",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "11",
+    "question": "How can I download the ARN?",
+    "answer": "To download Filed applications (ARNs) PDF documents navigate to Services > Refunds > My Applications command.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::12",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "12",
+    "question": "Where can I download my filed refund application?",
+    "answer": "Navigate to Services > User Services > My Applications link to download your filed refund application.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::13",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "13",
+    "question": "What happens when refund application in case of “Refund of excess balance from Electronic Cash Ledger” is filed?",
+    "answer": "• GST Portal generates an ARN and displays it in a confirmation message, indicating that the refund application has been successfully filed. • GST Portal sends the ARN to e-mail and SMS of the registered taxpayer. • GST Portal also makes a Debit entry in the Electronic Cash Ledger for the amount claimed as refund.",
+    "page_start": 2,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::14",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "14",
+    "question": "Whether there is any ledger entry on filing refund application?",
+    "answer": "Yes, there is a debit entry in Electronic Cash Ledger for the amount claimed as refund. The ledger entry would be posted to Electronic Cash Ledger only after filing of refund application.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::15",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "15",
+    "question": "When / how will the refund Form RFD-01 be processed?",
+    "answer": "Once the ARN is generated on filing of refund application in Form RFD-01, the refund application along with the documents attached while filing the form would be assigned to Jurisdictional Refund Processing Officers for processing the refund. Tax payer can track the status of refund application using track status functionality. The application will be processed and refund will be disbursed by the Jurisdictional Authority after scrutiny.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::16",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "16",
+    "question": "What should I do if my refund application is rejected for re-credit of rejected amount ?",
+    "answer": "If your GST refund application is rejected (fully or partially), you can request that the rejected amount be re-credited to your Electronic Credit Ledger (for ITC-based refunds) or Electronic Cash Ledger (for cash refunds). To enable this, you must file an undertaking on the GST portal confirming that you will not appeal against the rejected amount. Based on this undertaking, the proper officer will issue an order in Form GST PMT-03 to process the re-credit. Q. No. 16 to 17 are FAQs related to Creation of new UT of Ladakh and consequent changes of GST for taxpayers",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::16",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "16",
+    "question": "I have received an intimation that a new GSTIN has been assigned to me for UT of Ladakh. I have already filed a refund application with my old GSTIN. What will happen to that refund application?",
+    "answer": "All refund applications filed under old GSTIN, will be processed by designated Tax officials of the old GSTIN and amounts will be credited to your Bank detail as provided in old GSTIN. You do not need to file a fresh refund application, in these cases, using your new GSTIN.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::17",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "17",
+    "question": "I have received an intimation that a new GSTIN has been assigned to me for UT of Ladakh. Where do I need to file my refund application?",
+    "answer": "You need to file all your refund applications, for the refund due under new GSTIN, in the new jurisdiction assigned to you, for the period effective from 1st January 2020. Q. No. 18 to 19 are FAQs related to Merger of UT of Daman & Diu with UT of Dadra and Nagar Haveli and consequent changes on GST Portal for taxpayers",
+    "page_start": 3,
+    "page_end": 4,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::18",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "18",
+    "question": "I have received an intimation that a new GSTIN has been assigned to me for UT of Dadra and Nagar Haveli and Daman and Diu. I have already filed a refund application with my old GSTIN. What will happen to that refund application?",
+    "answer": "All refund applications filed under old GSTIN, will be processed by designated Tax officials of the old GSTIN and amounts will be credited to your Bank detail, as provided in old GSTIN. You do not need to file a fresh refund application for these cases, using your new GSTIN. Your refund applications for the refund due under old GSTIN for the period upto 31st July, 2020 are to be filed under old GSTIN only.",
+    "page_start": 4,
+    "page_end": 4,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::19",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "19",
+    "question": "I have received an intimation that a new GSTIN has been assigned to me for UT of Dadra and Nagar Haveli and Daman and Diu. Where do I need to file my refund application?",
+    "answer": "You need to file all your refund applications, for the refund due under new GSTIN, in the new jurisdiction assigned to you, for the period effective from 1st August 2020 However, your refund applications for the refund due under old GSTIN for the period upto 31st July, 2020 are to be filed under old GSTIN only.",
+    "page_start": 4,
+    "page_end": 4,
+    "needs_review": false
+  },
+  {
+    "id": "Application for Refund::20",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Application for Refund.pdf",
+    "section": "Refund of Excess Amount from the",
+    "question_number": "20",
+    "question": "Can I enter Bank Account details while claiming refund of excess amount available in Electronic Cash ledger?",
+    "answer": "In case you are a casual or NRTP taxpayer, whose registration was not granted and want to claim refund of excess amount available in Electronic Cash Ledger, you can login to the GST Portal using TRN (Temporary Reference Number) and enter Bank details. Click here to know more about how to login using TRN.",
+    "page_start": 4,
+    "page_end": 4,
+    "needs_review": false
+  }
+]

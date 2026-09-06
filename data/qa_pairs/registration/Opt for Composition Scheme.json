@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Opt for Composition Scheme::1",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "1",
+    "question": "Can I opt for the Composition Levy?",
+    "answer": "You can opt for the Composition Levy if you are a regular taxpayer with an aggregate annual domestic PAN-based turnover as specified from time to time. However, you cannot opt for the Composition Levy if you are/you make: any supply of goods which are not liable to be taxed under this Act inter-state outward supplies of goods supplies through electronic commerce operators who are required to collect tax under section 52. a manufacturer of notified goods a casual dealer a Non-Resident Foreign Taxpayer a person registered as Input Service Distributor (ISD) a person registered as TDS Deductor/Tax Collector",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::2",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "2",
+    "question": "How do I opt for Composition Levy if I am already registered as a regular taxpayer?",
+    "answer": "To opt for the Composition Levy, perform the following steps on the GST portal: 1. Log in to the Taxpayers’ Interface 2. Go to Services > Registration > Application to Opt for Composition Levy 3. Fill the form as per the form specification rules and submit",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::3",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "3",
+    "question": "How do I go from regular to composition scheme in GST?",
+    "answer": "Any taxpayer who is registered as normal tax payer under GST needs to file an application to opt for Composition Levy in Form GST-CMP-02 at GST Portal prior to the commencement of financial year for which the option to pay tax under the aforesaid section is exercised.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::4",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "4",
+    "question": "When can I opt for the Composition Levy?",
+    "answer": "In order to avail this scheme, you need to file an online application to Opt for Composition Levy with the tax authorities. Taxpayers who can opt for this scheme can be categorized as below: 1. New Taxpayers: Any person who becomes liable to register under GST Act, after the appointed day, needs to file his option to pay composition amount in the Application for New Registration in Form GST REG-01. 2. Existing Taxpayers: Any taxpayer who is registered as normal tax payer under GST needs to file an application to opt for Composition Levy in Form GST-CMP-02 at GST Portal prior to the commencement of financial year for which the option to pay tax under the aforesaid section is exercised.",
+    "page_start": 1,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::5",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "5",
+    "question": "I am a registered taxpayer availing the composition scheme under GST Portal. Do I need to file fresh application to opt for composition scheme?",
+    "answer": "For those taxpayers, who are already availing the composition scheme, there is no requirement to file fresh application opting for composition scheme, subject to compliance of relevant conditions/restrictions in this regard.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::6",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "6",
+    "question": "Is it mandatory to file a Stock Intimation? How do I file a Stock Intimation?",
+    "answer": "Yes, it is mandatory to file a Stock Intimation in Form ITC-03. In addition to filing the application to opt for Composition Levy, you would also require to file a Stock Intimation to furnish the details of stock held by you, on the day preceding the date from which you opt to pay the composition amount. You are required to file Stock Intimation details within 60 days of the date from which Composition Levy is sought. The application to opt for Composition Levy is not subject to approval by the tax authorities. On filing of the application, you are marked as a composition taxpayer in the system and consequential changes are made in the system. However, in case it is found that you were not eligible for the Composition Levy or have not filed Stock Intimation, you would be compulsorily converted from Composition Scheme to Normal Taxpayer by initiating appropriate proceedings.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::7",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "7",
+    "question": "Can I save the Application to Opt for Composition Levy?",
+    "answer": "Yes, the application can be saved for up to 15 days from the date of initiation after which it will be purged by the system. Saved applications can be accessed using the My Saved Applications functionality available in the Taxpayers’ Interface.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::8",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "8",
+    "question": "Can I opt for Composition Levy, if I have dealt in services?",
+    "answer": "Yes, you can opt for Composition Levy, even if you have dealt in services, from FY 2019-20 onwards.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::9",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "9",
+    "question": "What are the returns to be filed by a Composition taxpayer?",
+    "answer": "Composition taxpayer needs to pay tax and furnish a statement, every quarter or part thereof, as the case may be, in FORM GST CMP-08. And further he has to furnish a return for every financial year or part thereof, as the case may be, in FORM GSTR-4. NOTE: For current applicable timelines, refer to Important Dates section on https://www.gst.gov.in/",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Opt for Composition Scheme::10",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/registration/Opt for Composition Scheme.pdf",
+    "section": "Opt for Composition Levy (FORM GST CMP-",
+    "question_number": "10",
+    "question": "Can I opt for Composition Levy, if any one of the GSTIN with same PAN is registered as SEZ Unit/SEZ Developer?",
+    "answer": "No, you cannot opt for Composition Levy, if any one of the GSTIN with same PAN is registered as SEZ Unit/SEZ Developer.",
+    "page_start": 2,
+    "page_end": 3,
+    "needs_review": false
+  }
+]

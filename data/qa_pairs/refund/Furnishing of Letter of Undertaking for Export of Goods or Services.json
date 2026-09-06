@@ -1,0 +1,178 @@
+[
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::1",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "1",
+    "question": "Who has to furnish a Letter of Undertaking?",
+    "answer": "Any registered person availing the option to supply goods or services for export /SEZs without payment of integrated tax has to furnish, prior to export/SEZs supply, a Letter of Undertaking (LUT), if he has not been prosecuted for tax evasion for an amount of Rs 2.5 Crore or above under the CGST Act/IGST Act/Existing law. Example of transactions for which LUT can be used are: Zero rated supply to SEZ without payment of IGST. Export of goods to a country outside India without payment of IGST. Providing services to a client in a country outside India without payment of IGST.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::2",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "2",
+    "question": "How can I file LUT?",
+    "answer": "All registered taxpayers who have zero-rated supply of goods or services have to furnish LUT in Form GST RFD-11 on the GST Portal before affecting such supply. Access the GST portal and login using valid credentials. Navigate to Services > User Services > Furnish Letter of Undertaking (LUT) command to file LUT.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::3",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "3",
+    "question": "What is to be filled in LUT?",
+    "answer": "GSTIN and Name (Legal Name) of the Taxpayer would get prefilled based on login. Taxpayer needs to select the financial year for which LUT is being filed, enter the name, address and occupation details of two independent and reliable witnesses. Taxpayer also needs to select all the points of self-declaration before filing the LUT.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::4",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "4",
+    "question": "What if I have already furnished a LUT and also got approval for it?",
+    "answer": "If a taxpayer has any LUT which was furnished manually and got approved by the Tax Authority for current Financial Year, then he can upload that LUT and file this online application for furnishing LUT to seek the online approval for that previous LUT.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::5",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "5",
+    "question": "Is it mandatory to record the manually approved LUT in online records?",
+    "answer": "It is not mandatory, but if you want to record the manually approved LUT to be available in online records then you can furnish it with online application.",
+    "page_start": 1,
+    "page_end": 1,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::6",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "6",
+    "question": "Is there any limitation regarding the upload of previous LUT?",
+    "answer": "Only one previous LUT document not exceeding 2 MB in size can be uploaded in one application. To upload another LUT, taxpayer needs to file a new application.",
+    "page_start": 1,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::7",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "7",
+    "question": "Can I as a taxpayer save the LUT application during the process of filing?",
+    "answer": "Taxpayer will have the facility to save the application at any stage for 15 days. Saved application can be retrieved from Dashboard > Services > User Services > My Saved Applications.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::8",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "8",
+    "question": "Can I preview the LUT application?",
+    "answer": "Before signing and filing the application, taxpayer will have an option to Preview the application and save it in PDF format.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::9",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "9",
+    "question": "Who has to sign the LUT application?",
+    "answer": "Primary authorized signatory/Any other Authorized Signatory needs to sign and file the verification with DSC/EVC. Authorized signatory can be the working partner, the managing director or the proprietor or by a person duly authorized by such working partner or Board of Directors of such company or proprietor to execute the form.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::10",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "10",
+    "question": "How would I know that the process of furnishing LUT has been completed?",
+    "answer": "After successful filing, system will generate ARN and acknowledgement. You will be informed about successful filing via SMS and Email and you can also download the acknowledgement as PDF.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::11",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "11",
+    "question": "Can I view my LUT application after filing?",
+    "answer": "Taxpayer will be able to see his ARN under the Services > User Services > View My Submitted LUTs.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::12",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "12",
+    "question": "What are the various status of the LUT application filed by the taxpayer?",
+    "answer": "The list below provides the list of statuses of the LUT application in Form GST RFD-11 ARN, filed by the taxpayer: 1. Submitted: Status of LUT application after Taxpayer submits the application successfully 2. Pending for Clarification: Status of LUT application after LUT Processing officer issues notice for seeking clarification 3. Pending for Order: Status of LUT application after Taxpayer submits the reply for notice within 15 working days Or Taxpayer does not submit the reply for notice after completion of 15 working days and then GST Portal changes the status from pending for clarification to pending for order 4. Approved: Status of LUT application after Tax Official accepts the undertaking furnished by Taxpayer 5. Rejected: Status of LUT application after Tax Official rejects the undertaking furnished by Taxpayer 6. Deemed Approved: Status of LUT application in case Tax Official doesn't take any action within 3 working days 7. Expired: The status of the LUT application will get changed to Expired at the end of the respective FY.",
+    "page_start": 2,
+    "page_end": 2,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::13",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "13",
+    "question": "Can a Tax Official disable LUT filing by the taxpayer?",
+    "answer": "A Tax Official who is LUT Processing Officer, may disable LUT filing functionality for a taxpayer on the GST Portal. When Tax Official has disabled LUT filing for a taxpayer, taxpayer is intimated through SMS and email.",
+    "page_start": 2,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::14",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "14",
+    "question": "Can a taxpayer raise request from GST Portal to enable LUT?",
+    "answer": "If LUT Processing Officer has disabled the furnishing of LUT for some taxpayer, then to get it enabled, taxpayer has to communicate this request to LUT Processing Officer manually. From GST Portal, taxpayer cannot raise the request to enable furnishing of LUT. Q. No. 15 FAQ is related to Creation of new UT of Ladakh and consequent changes on GST Portal for taxpayers",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::15",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "15",
+    "question": "I have received an intimation that a new GSTIN has been assigned to me for UT of Ladakh. I have already filed Letter of Undertaking. What do I do next?",
+    "answer": "You need to file a fresh Letter of Undertaking (LUT) for New GSTIN, for the remaining part of the financial year. Q. No. 16 is FAQ related to Merger of UT of Daman & Diu with UT of Dadra and Nagar Haveli and consequent changes on GST Portal for taxpayers",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  },
+  {
+    "id": "Furnishing of Letter of Undertaking for Export of Goods or Services::16",
+    "source_file": "/Users/suheetsonawane/Desktop/India Vapsi/Github/Projects/GST Compliance RAG Assistant/data/refund/Furnishing of Letter of Undertaking for Export of Goods or Services.pdf",
+    "section": "Filing of Letter of Undertaking for Export of",
+    "question_number": "16",
+    "question": "I have received an intimation that a new GSTIN has been assigned to me for UT of Dadra and Nagar Haveli and Daman and Diu. I have already filed Letter of Undertaking. What do I do next?",
+    "answer": "You need to file a fresh Letter of Undertaking (LUT) for New GSTIN, for the remaining part of the financial year.",
+    "page_start": 3,
+    "page_end": 3,
+    "needs_review": false
+  }
+]
