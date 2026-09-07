@@ -17,6 +17,8 @@ payments — grounded strictly in official GST FAQ documents. Every answer cites
 the specific FAQ section it came from, and the assistant explicitly says when
 it doesn't have a reliable source rather than guessing.
 
+**[Live demo](https://huggingface.co/spaces/Suheet/gst-compliance-faq-assistant)**
+
 ## How it works
 
 1. **Extraction**: FAQ PDFs from the official GST tutorial site are parsed
